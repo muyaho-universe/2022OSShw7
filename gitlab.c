@@ -1,10 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int a;
 	printf("Hello World\n");
-	printf("a? ");
-	scanf("%d", &a);
-	printf("a: %d\n", a);
+	printf("No a existed\n");
 	return 0;
 }
